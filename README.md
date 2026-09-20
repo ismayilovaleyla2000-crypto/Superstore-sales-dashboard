@@ -1,3 +1,4 @@
+https://superstore-sales-dashboard-du7zcrjo2vu95ywaieymfx.streamlit.app/
 📊 Superstore Sales Dashboard
 
 Bu layihə, satış datasının Python ilə təhlili və Power BI ilə dashboard qurulmasını əhatə edir.
